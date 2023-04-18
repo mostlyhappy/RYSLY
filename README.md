@@ -12,8 +12,9 @@ Koita ensin parhaasi ladata tiedostot githubista. Ohjelma ei ole... hmm... hirve
 
 Kun olet valmis, suorita "lajittelu.py"-koodi python3-ohjelmalla. Voit tehdä tämän(Windowsilla) avaamalla komentorivin (start --> cmd --> run), menemällä ´cd´-komennon avulla RYSLY-tiedostoon, ja aloittamalla ohjelman "lajittelu.py":
 
-´´´
+```
 cd C:\home\(käyttäjä)\Downloads\RYSLY\
 python3 lajittelu.py
-´´´
+```
+
 muutaman sekunnin odotuksen jälkeen ohjelma näyttää, montako kurssiyhdistelmää se löysi, minkä jälkeen ulos tulee yksi esimerkki. Tätä pidemmälle ohjelma ei ole vielä päässyt. Teen seuraavaksi simppelin tekstipohjaisen käyttöliittymän, jotta käyttäjän ei tarvitse leikkiä tekstitiedostoilla.
